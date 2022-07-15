@@ -10,6 +10,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        },
+    {
+      "key": "Kunyu77",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_xpath_xxj",
       "name": "部分由贝诺公司筛选",
