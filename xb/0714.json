@@ -5,6 +5,10 @@
       "type_id": "刘德华演唱会"
     },
     {
+      "type_name": "应涵雅",
+      "type_id": "邓紫棋演唱会"
+    },
+    {
       "type_name": "伍佰",
       "type_id": "伍佰演唱会"
     },
@@ -68,10 +72,7 @@
       "type_name": "阿黛尔",
       "type_id": "阿黛尔演唱会"
     },
-    {
-      "type_name": "邓紫棋",
-      "type_id": "邓紫棋演唱会"
-    },
+    
     {
       "type_name": "徐小凤",
       "type_id": "徐小凤演唱会"
