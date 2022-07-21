@@ -9,6 +9,10 @@
       "type_id": "邓紫棋演唱会"
     },
     {
+      "type_name": "应雨婕",
+      "type_id": "张碧晨演唱会"
+    },
+    {
       "type_name": "伍佰",
       "type_id": "伍佰演唱会"
     },
@@ -48,10 +52,7 @@
       "type_name": "伍珂玥",
       "type_id": "伍珂玥演唱会"
     },
-    {
-      "type_name": "张碧晨",
-      "type_id": "张碧晨演唱会"
-    },
+
     {
       "type_name": "黄凯芹",
       "type_id": "黄凯芹演唱会"
