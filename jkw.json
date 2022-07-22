@@ -11,11 +11,11 @@
 
 "sites":[
 
-{
-      "key": "Kunyu77",
+    {
+      "key": "Kuaikan",
       "name": "雨杭专用频道",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -35,6 +35,15 @@
       "name": "雨婕专用频道",
       "type": 3,
       "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+      "key": "Kunyu77",
+      "name": "雨杭备用频道",
+      "type": 3,
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -123,15 +132,6 @@
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
 
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "zxzj",
       "name": "在线之家",
