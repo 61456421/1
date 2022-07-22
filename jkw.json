@@ -13,16 +13,17 @@
 
 {
       "key": "Kunyu77",
-      "name": "七七",
+      "name": "雨杭专业频道",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+	"ext": "https://61456421.github.io/1/xb/0714.json"
     },
     {
       "key": "Kmys",
-      "name": "酷猫",
+      "name": "丫丫专用频道",
       "type": 3,
       "api": "csp_Kmys",
       "searchable": 1,
@@ -31,7 +32,7 @@
     },
     {
       "key": "Ikan",
-      "name": "Ikan",
+      "name": "雨婕专用频道",
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
