@@ -59,7 +59,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	  "spider": "https://61456421.github.io/1/jar/666.jar"
+	  "spider": "https://61456421.github.io/1/jar/666.jar",
+      "jar":"https://pan.css.lc/api/v3/file/get/78312/666.jar?sign=i3ocP8LGctoVh5LeOctWQkTUy_bIjeMFHolMwuXFcTA%3D%3A0"
     },
     {
       "key": "小宝影院",
