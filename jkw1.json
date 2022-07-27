@@ -3,7 +3,7 @@
 //"wallpaper":"http://p9.qhimg.com/bdr/__85/t01b895c2571882becf.jpg",
 //"wallpaper":"https://pan.css.lc/api/v3/file/get/74257/W-.jpg?sign=lKjt2M2UJHkeoPmYa4iiRk5y4OBRzMtojRPaJif_N5k%3D%3A0",
 "wallpaper":"https://pan.css.lc/api/v3/file/get/74258/W-1.png?sign=LltRtM-DUVe9cZaOSJ0EwSl-UZNwNpCmaD9xzr29i2w%3D%3A0",
-"spider":"https://61456421.github.io/1/jar/66.jar",
+"spider":"https://61456421.github.io/1/jar/666.jar",
 
 //"spider":"https://61456421.github.io/1/jar/0712.jar",//https://61456421.github.io/1/0708.jar,比邻编码aHR0cHM6Ly9wYW4uYmlsbm4uY24vYXBpL3YzL2ZpbGUvc291cmNlanVtcC9aMTkxSlpJby9ZUFdYc2NFT1pmTW1tbXRRSFU3M2xfOU5INGo0STBIV2Z4TVdRX1dhRXYwKg==
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
@@ -229,8 +229,8 @@
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://61456421.github.io/1/xb/特狗影视.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_biubiu_喜鹊视频","name":"🥒喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://61456421.github.io/1/xb/喜鹊视频.json"},
-{"key":"csp_biubiu_演唱会","name": "🌈吾爱演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://61456421.github.io/1/xb/0714.json"},
-{"key":"csp_biubiu_mv","name": "mv","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://61456421.github.io/1/xb/mv.json"},
+{"key":"csp_biubiu_演唱会","name": "🌈吾爱演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://61456421.github.io/1/xb/0714.json","spider": "https://61456421.github.io/1/jar/66.jar"},
+{"key":"csp_biubiu_mv","name": "mv","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://61456421.github.io/1/xb/mv.json,"jar": "https://61456421.github.io/1/jar/66.jar"},
 {"key":"csp_biubiu_瓜皮TV","name":"🥒瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://61456421.github.io/1/xb/瓜皮TV.json"},
 {"key":"csp_biubiu_真的卡影院","name":"🥒真的卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://61456421.github.io/1/xb/真的卡影院.json"},
 {"key":"csp_biubiu_荣耀Glory","name":"🥒荣耀Glory(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://61456421.github.io/1/xb/荣耀Glory.json"},
