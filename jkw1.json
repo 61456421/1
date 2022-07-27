@@ -58,9 +58,7 @@
       "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	  "spider": "https://61456421.github.io/1/jar/666.jar",
-      "jar":"https://61456421.github.io/1/jar/666.jar"
+      "filterable": 1
     },
     {
       "key": "小宝影院",
